@@ -12,7 +12,7 @@ This is a simple calculator application built using JavaScript. It performs basi
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/2Calculator.git
+    git clone https://github.com/codebasebo/Simple_Calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
